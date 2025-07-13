@@ -2,4 +2,7 @@
 
 Issue:
 
-See the 'test' here (lack of compile error): [src/populate.test.ts](src/populate.test.ts)
+To repro:
+1. Clone this repo
+2. Run `npm install`
+3. See the 'test' here (lack of compile error): [src/populate.test.ts](src/populate.test.ts)
